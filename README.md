@@ -1,5 +1,5 @@
 # Họ và tên: Nguyễn Phương Thảo
-![Ảnh đại diện](anhdaidien.jpg)
+<img src="anhdaidien.jpg" alt="Ảnh đại diện" width="180">
 Sinh viên khoa Tin học, Trường ĐHSP Huế
 ## Sở thích:
 + Nghe nhạc
